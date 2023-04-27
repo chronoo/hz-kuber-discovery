@@ -1,10 +1,10 @@
-package com.example.hazelfallout;
+package com.example.hazelcast.strategy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HazelFalloutApplicationTests {
+class StrategyApplicationTests {
 
     @Test
     void contextLoads() {

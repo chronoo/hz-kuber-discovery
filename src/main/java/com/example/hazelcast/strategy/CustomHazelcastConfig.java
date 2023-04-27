@@ -1,4 +1,4 @@
-package com.example.hazelfallout;
+package com.example.hazelcast.strategy;
 
 import com.hazelcast.config.Config;
 import com.hazelcast.config.DiscoveryStrategyConfig;

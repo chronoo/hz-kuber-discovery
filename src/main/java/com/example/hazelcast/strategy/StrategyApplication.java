@@ -1,13 +1,13 @@
-package com.example.hazelfallout;
+package com.example.hazelcast.strategy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HazelFalloutApplication {
+public class StrategyApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HazelFalloutApplication.class, args);
+        SpringApplication.run(StrategyApplication.class, args);
     }
 
 }

@@ -1,4 +1,4 @@
-package com.example.hazelfallout;
+package com.example.hazelcast.strategy;
 
 import com.hazelcast.kubernetes.CustomHazelcastKubernetesDiscoveryStrategy;
 import com.hazelcast.kubernetes.HazelcastKubernetesDiscoveryStrategyFactory;
